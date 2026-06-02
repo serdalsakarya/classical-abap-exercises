@@ -4,7 +4,7 @@
 *&
 *&---------------------------------------------------------------------*
 REPORT ZBK_EGT_0006.
-
+* Test commit 02.06.2026 13:57
 data: gv_num1 type int4,
       gv_num2 type int4,
       gv_sonuc type int4,
