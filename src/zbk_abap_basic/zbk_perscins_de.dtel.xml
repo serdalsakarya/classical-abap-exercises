@@ -16,6 +16,8 @@
     <SCRTEXT_M>Personel Cinsiyeti</SCRTEXT_M>
     <SCRTEXT_L>Personel Cinsiyeti</SCRTEXT_L>
     <DTELMASTER>E</DTELMASTER>
+    <SHLPNAME>ZBK_EGT_0001_SH</SHLPNAME>
+    <SHLPFIELD>PERS_CINS</SHLPFIELD>
     <REFKIND>D</REFKIND>
    </DD04V>
   </asx:values>
