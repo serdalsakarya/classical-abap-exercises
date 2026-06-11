@@ -13,8 +13,8 @@ PARAMETERS: p_num1 TYPE int4,
 
 CLASS lcl_main DEFINITION.
   PUBLIC SECTION.
-    METHODS: sum_numbers,
-      sub_numbers.
+    METHODS:  sum_numbers,
+              sub_numbers.
     DATA: mv_sum  TYPE int4,
           mv_diff TYPE int4.
 
